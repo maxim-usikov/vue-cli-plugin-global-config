@@ -1,0 +1,18 @@
+{
+  "name": "vue-cli-plugin-global-config",
+  "version": "1.0.0",
+  "description": "Global Config plugin for vue-cli",
+  "main": "index.js",
+  "repository": "git@github.com:maxim-usikov/vue-cli-plugin-global-config.git",
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/maxim-usikov/vue-cli-plugin-global-config/issues"
+  },
+  "homepage": "https://github.com/maxim-usikov/vue-cli-plugin-global-config",
+  "author": "Maxim Usikov <mu.usikov@gmail.com>",
+  "license": "MIT"
+}
