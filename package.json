@@ -2,7 +2,10 @@
   "name": "vue-cli-plugin-global-config",
   "version": "1.0.0",
   "description": "Global Config plugin for vue-cli",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": [
+    "/lib"
+  ],
   "repository": "git@github.com:maxim-usikov/vue-cli-plugin-global-config.git",
   "keywords": [
     "vue",
