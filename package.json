@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-global-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global Config plugin for vue-cli",
   "main": "lib/index.js",
   "files": [
