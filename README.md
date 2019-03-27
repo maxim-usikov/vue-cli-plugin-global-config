@@ -30,7 +30,7 @@ vue add vue-cli-plugin-global-config
 * [Global Config](https://vuejs.org/v2/api/#Global-Config)
   Vue.config is an object containing Vue’s global configurations. You can modify
   its properties listed below before bootstrapping your application:
-* [CLI Plugin Development * Guide](https://cli.vuejs.org/dev-guide/plugin-dev.html#cli-plugin)
+* [CLI Plugin Development Guide](https://cli.vuejs.org/dev-guide/plugin-dev.html#cli-plugin)
   A CLI plugin is an npm package that can add additional features to the project
   using Vue CLI.
 
